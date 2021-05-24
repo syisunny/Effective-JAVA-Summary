@@ -48,6 +48,7 @@ _If you are the publisher and think this repository should not be public, just w
 	- [35. Prefer annotations to naming patterns](#35-prefer-annotations-to-naming-patterns)
 	- [36. Consistently use the _Override_ annotation](#36-consistently-use-the-override-annotation)
 	- [37. Use marker interfaces to define types](#37-use-marker-interfaces-to-define-types)
+- [7. Lambdas and Streams](#7-Lambdas)
 - [7. METHODS](#6-methods)
 	- [38. Check parameters for validity](#38-check-parameters-for-validity)
 	- [39. Make defensive copies when needed.](#39-make-defensive-copies-when-needed)
